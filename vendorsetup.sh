@@ -16,5 +16,5 @@
 # limitations under the License.
 #
 
-add_lunch_combo omni_polaris-userdebug
-add_lunch_combo omni_polaris-eng
+add_lunch_combo fox_polaris-userdebug
+add_lunch_combo fox_polaris-eng

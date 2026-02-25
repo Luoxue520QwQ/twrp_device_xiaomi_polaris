@@ -31,7 +31,7 @@ $(call inherit-product, vendor/omni/config/gsm.mk)
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := polaris
-PRODUCT_NAME := omni_polaris
+PRODUCT_NAME := fox_polaris
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Xiaomi
 PRODUCT_MANUFACTURER := xiaomi

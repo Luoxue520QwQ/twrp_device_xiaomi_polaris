@@ -17,4 +17,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-     $(LOCAL_DIR)/omni_polaris.mk
+     $(LOCAL_DIR)/fox_polaris.mk
