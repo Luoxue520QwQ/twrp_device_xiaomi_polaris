@@ -18,3 +18,7 @@
 
 PRODUCT_MAKEFILES := \
      $(LOCAL_DIR)/fox_polaris.mk
+
+COMMON_LUNCH_CHOICES := \
+     fox_polaris-userdebug \
+     fox_polaris-eng

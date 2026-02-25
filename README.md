@@ -1,4 +1,8 @@
-# fox_device_xiaomi_polaris
+# OrangeFox Recovery
+
+<p>
+<img src="https://raw.githubusercontent.com/OrangeFoxRecovery/.github/fox/profile/OrangeFox.jpg" width="max-content" height="auto"/>
+</p>
 
 Device configuration for Xiaomi MIX 2S
 =========================================

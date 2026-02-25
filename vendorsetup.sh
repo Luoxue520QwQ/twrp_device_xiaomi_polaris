@@ -15,6 +15,3 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-
-add_lunch_combo fox_polaris-userdebug
-add_lunch_combo fox_polaris-eng
